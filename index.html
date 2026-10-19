@@ -431,8 +431,20 @@ async function carregarRadarDinamico() {
       cartao.className = "radar-noticia";
 
       const nome = document.createElement("h4");
-      nome.textContent = tema.title;
-      cartao.appendChild(nome);
+const traducoes = {
+  "NASA Improves Shock, Vibration Analysis": "NASA aprimora a análise de choques e vibrações",
+  "NASA’s Simulated Mars Crew Marks One Year Inside Habitat": "Equipe simulada de Marte da NASA completa um ano em habitat",
+  "Treble Clef: Unusual X-ray Hot Radio Source": "Clave de sol: fonte de rádio quente e incomum em raios X",
+  "Autumn Paints Poland’s Bieszczady Mountains": "O outono colore as montanhas Bieszczady, na Polônia",
+  "Sonified: Eagle Nebula Pillars": "Nebulosa da Águia transformada em sons",
+  "3D 67P": "Cometa 67P em 3D",
+  "Euclid discovers new comet": "Euclid descobre um novo cometa",
+  "Where winds blow and lava flows": "Onde os ventos sopram e a lava flui"
+};
+
+nome.textContent = traducoes[tema.title] || tema.title;
+nome.lang = "en";
+cartao.appendChild(nome);
 
       const fonte = document.createElement("p");
       fonte.textContent = tema.category + " • Fonte: " + tema.source;
