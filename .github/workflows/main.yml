@@ -1,0 +1,27 @@
+name: Radar diario Domínio X
+
+on:
+  schedule:
+    - cron: "30 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar-radar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar arquivos do projeto
+        uses: actions/checkout@v4
+
+      - name: Preparar ambiente Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verificar execução
+        run: |
+          echo "Radar Domínio X executado."
+          echo "Proxima etapa: conectar fontes de noticias e atualizar os temas."
