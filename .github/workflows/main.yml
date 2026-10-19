@@ -1,4 +1,4 @@
-name: Radar diario Domínio X
+name: Radar Diario Dominio X
 
 on:
   schedule:
@@ -21,7 +21,138 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Verificar execução
+      - name: Buscar noticias cientificas
         run: |
-          echo "Radar Domínio X executado."
-          echo "Proxima etapa: conectar fontes de noticias e atualizar os temas."
+          python - <<'PY'
+          import json
+          import re
+          import html
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+
+          feeds = [
+              ("NASA", "https://www.nasa.gov/feed/"),
+              ("ESA", "https://www.esa.int/rssfeed/Our_Activities/Space_Science"),
+          ]
+
+          def tag_name(tag):
+              return tag.split("}")[-1].lower()
+
+          def get_text(element, names):
+              for child in element.iter():
+                  if tag_name(child.tag) in names and child.text:
+                      return child.text.strip()
+              return ""
+
+          topics = []
+          seen = set()
+          successful_feeds = 0
+
+          for source, url in feeds:
+              try:
+                  request = urllib.request.Request(
+                      url,
+                      headers={"User-Agent": "DominioX-Radar/1.0"}
+                  )
+                  with urllib.request.urlopen(request, timeout=20) as response:
+                      root = ET.fromstring(response.read())
+
+                  entries = [
+                      element for element in root.iter()
+                      if tag_name(element.tag) in ("item", "entry")
+                  ]
+
+                  successful_feeds += 1
+
+                  for entry in entries:
+                      title = get_text(entry, {"title"})
+                      link = get_text(entry, {"link"})
+                      if not link:
+                          for child in entry.iter():
+                              if tag_name(child.tag) == "link":
+                                  link = child.attrib.get("href", "")
+                                  if link:
+                                      break
+
+                      if not title or not link:
+                          continue
+
+                      key = title.casefold()
+                      if key in seen:
+                          continue
+                      seen.add(key)
+
+                      text = title.casefold()
+                      if any(word in text for word in [
+                          "planet", "space", "star", "moon", "mars",
+                          "galaxy", "universe", "telescope", "asteroid",
+                          "lua", "planeta", "estrela", "universo",
+                          "astronomia", "galáxia", "telescópio"
+                      ]):
+                          category = "Astronomia"
+                      elif any(word in text for word in [
+                          "technology", "artificial intelligence", "robot",
+                          "tecnologia", "inteligência artificial", "robô"
+                      ]):
+                          category = "Tecnologia"
+                      elif any(word in text for word in [
+                          "mystery", "mysterious", "unexplained",
+                          "mistério", "misterioso", "enigma"
+                      ]):
+                          category = "Mistérios"
+                      else:
+                          category = "Ciência"
+
+                      description = get_text(
+                          entry, {"description", "summary"}
+                      )
+                      description = html.unescape(
+                          re.sub("<[^>]+>", " ", description)
+                      )
+                      description = " ".join(description.split())[:350]
+
+                      topics.append({
+                          "title": html.unescape(title),
+                          "category": category,
+                          "source": source,
+                          "url": link,
+                          "description": description
+                      })
+
+                      if len(topics) >= 12:
+                          break
+
+                  if len(topics) >= 12:
+                      break
+
+              except Exception as error:
+                  print(f"Fonte {source} indisponivel: {error}")
+
+          if successful_feeds == 0:
+              raise RuntimeError(
+                  "Nenhuma fonte respondeu. O radar nao foi atualizado."
+              )
+
+          data = {
+              "updated_at": datetime.now(timezone.utc).isoformat(),
+              "topics": topics
+          }
+
+          with open("topics.json", "w", encoding="utf-8") as file:
+              json.dump(data, file, ensure_ascii=False, indent=2)
+
+          print(f"Radar atualizado com {len(topics)} assuntos.")
+          PY
+
+      - name: Salvar temas no repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add topics.json
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudanca para salvar."
+          else
+            git commit -m "Atualiza Radar Diario Domínio X"
+            git push
+          fi
