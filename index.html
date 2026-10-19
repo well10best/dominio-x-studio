@@ -266,9 +266,14 @@
           onclick="document.getElementById('subject').value='Fenômenos misteriosos registrados na Terra';">
           🧭 Fenômenos misteriosos da Terra
         </button>
+     
       </div>
 
-      <p>Radar experimental: sugestões de demonstração, ainda sem pesquisa automática na internet.</p>
+      <div id="radar-dinamico">
+        <p>Carregando novidades científicas...</p>
+      </div>
+
+      <p>Radar experimental: sugestões de demonstração.</p>
     
     </section>    
     <section class="panel">
@@ -401,6 +406,69 @@
 
     });
 
+async function carregarRadarDinamico() {
+  const area = document.getElementById("radar-dinamico");
+  if (!area) return;
+
+  try {
+    const resposta = await fetch("./topics.json?v=" + Date.now());
+    if (!resposta.ok) throw new Error("Falha ao carregar o radar");
+
+    const dados = await resposta.json();
+    area.replaceChildren();
+
+    if (!dados.topics || dados.topics.length === 0) {
+      area.textContent = "Nenhum tema novo encontrado hoje.";
+      return;
+    }
+
+    const titulo = document.createElement("h3");
+    titulo.textContent = "Novidades científicas";
+    area.appendChild(titulo);
+
+    dados.topics.forEach((tema) => {
+      const cartao = document.createElement("div");
+      cartao.className = "radar-noticia";
+
+      const nome = document.createElement("h4");
+      nome.textContent = tema.title;
+      cartao.appendChild(nome);
+
+      const fonte = document.createElement("p");
+      fonte.textContent = tema.category + " • Fonte: " + tema.source;
+      cartao.appendChild(fonte);
+
+      if (tema.description) {
+        const resumo = document.createElement("p");
+        resumo.textContent = tema.description;
+        cartao.appendChild(resumo);
+      }
+
+      const escolher = document.createElement("button");
+      escolher.type = "button";
+      escolher.textContent = "Usar este tema";
+      escolher.addEventListener("click", () => {
+        document.getElementById("subject").value = tema.title;
+      });
+      cartao.appendChild(escolher);
+
+      const link = document.createElement("a");
+      link.href = tema.url;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = "Ler na fonte original";
+      cartao.appendChild(link);
+
+      area.appendChild(cartao);
+    });
+  } catch (erro) {
+    area.textContent =
+      "Não foi possível carregar as novidades. Atualize a página e tente novamente.";
+    console.error("Radar Domínio X:", erro);
+  }
+}
+
+carregarRadarDinamico();
   </script>
 
 </body>
