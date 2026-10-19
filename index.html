@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="theme-color" content="#080b14">
+
+  <title>Domínio X Studio</title>
+
+  <style>
+
+    * { box-sizing: border-box; }
+
+    body {
+
+      margin: 0;
+
+      font-family: Arial, sans-serif;
+
+      background: #080b14;
+
+      color: #f4f6ff;
+
+    }
+
+    header {
+
+      padding: 24px;
+
+      border-bottom: 1px solid #252c40;
+
+      background: #0d1220;
+
+    }
+
+    .brand {
+
+      color: #78a9ff;
+
+      font-size: 13px;
+
+      letter-spacing: 3px;
+
+      font-weight: bold;
+
+    }
+
+    h1 { margin: 10px 0 6px; font-size: 30px; }
+
+    p { color: #aab4ca; line-height: 1.6; }
+
+    main {
+
+      width: min(100% - 32px, 900px);
+
+      margin: 28px auto;
+
+    }
+
+    .hero, .panel {
+
+      background: #111a2b;
+
+      border: 1px solid #283650;
+
+      border-radius: 16px;
+
+      padding: 22px;
+
+      margin-bottom: 20px;
+
+    }
+
+    .hero {
+
+      background: linear-gradient(135deg, #142b50, #111a2b 70%);
+
+    }
+
+    .tag {
+
+      display: inline-block;
+
+      color: #9fc4ff;
+
+      border: 1px solid #385786;
+
+      border-radius: 20px;
+
+      padding: 6px 10px;
+
+      font-size: 12px;
+
+    }
+
+    h2 { font-size: 19px; margin-top: 0; }
+
+    .topics {
+
+      display: grid;
+
+      grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
+
+      gap: 12px;
+
+    }
+
+    .topic {
+
+      text-align: left;
+
+      background: #17243a;
+
+      border: 1px solid #344763;
+
+      color: white;
+
+      border-radius: 12px;
+
+      padding: 16px;
+
+      cursor: pointer;
+
+      min-height: 80px;
+
+    }
+
+    .topic.selected {
+
+      border-color: #78a9ff;
+
+      background: #203b61;
+
+    }
+
+    .topic span { display: block; font-size: 24px; margin-bottom: 8px; }
+
+    label { display: block; margin: 16px 0 8px; }
+
+    input, textarea, select {
+
+      width: 100%;
+
+      background: #090f1c;
+
+      border: 1px solid #344763;
+
+      color: white;
+
+      padding: 12px;
+
+      border-radius: 9px;
+
+      font: inherit;
+
+    }
+
+    button.primary {
+
+      background: #78a9ff;
+
+      color: #081020;
+
+      border: 0;
+
+      border-radius: 9px;
+
+      padding: 13px 18px;
+
+      font-weight: bold;
+
+      cursor: pointer;
+
+      margin-top: 16px;
+
+    }
+
+    button:focus-visible, input:focus-visible, textarea:focus-visible {
+
+      outline: 2px solid #78a9ff;
+
+      outline-offset: 3px;
+
+    }
+
+    #status {
+
+      padding: 14px;
+
+      background: #0b1423;
+
+      border-radius: 9px;
+
+      white-space: pre-wrap;
+
+      overflow-wrap: anywhere;
+
+    }
+
+    footer {
+
+      text-align: center;
+
+      padding: 24px;
+
+      color: #7f8da8;
+
+      font-size: 12px;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <header>
+
+    <div class="brand">DOMÍNIO X • ESTÚDIO DE CRIAÇÃO</div>
+
+    <h1>Domínio X Studio</h1>
+
+    <p>Ideias extraordinárias. Ciência explicada. Vídeos que despertam curiosidade.</p>
+
+  </header>
+
+  <main>
+
+    <section class="hero">
+
+      <span class="tag">VERSÃO 0.1 • PRIMEIRO PROTÓTIPO</span>
+
+      <h2 style="margin-top:18px">Seu próximo vídeo começa aqui.</h2>
+
+      <p>Escolha uma área, defina um assunto e prepare a pauta do seu próximo YouTube Short.</p>
+
+    </section>
+
+    <section class="panel">
+      <h2>Radar Domínio X</h2>
+      <p>Escolha uma sugestão para começar sua próxima pauta.</p>
+
+      <div class="topics">
+        <button class="topic" data-topic="Astronomia"
+          onclick="document.getElementById('subject').value='O que acontece dentro de uma estrela de nêutrons?';">
+          🌌 Estrelas de nêutrons
+        </button>
+
+        <button class="topic" data-topic="Ciência"
+          onclick="document.getElementById('subject').value='Animais que conseguem regenerar partes do corpo';">
+          🔬 A regeneração no reino animal
+        </button>
+
+        <button class="topic" data-topic="Tecnologia"
+          onclick="document.getElementById('subject').value='Tecnologias que podem transformar o futuro';">
+          🤖 Tecnologias do futuro
+        </button>
+
+        <button class="topic" data-topic="Mistérios"
+          onclick="document.getElementById('subject').value='Fenômenos misteriosos registrados na Terra';">
+          🧭 Fenômenos misteriosos da Terra
+        </button>
+      </div>
+
+      <p>Radar experimental: sugestões de demonstração, ainda sem pesquisa automática na internet.</p>
+    
+    </section>    
+    <section class="panel">
+
+      <h2>01 — Escolha a área do vídeo</h2>
+
+      <div class="topics">
+
+        <button class="topic" data-topic="Astronomia"><span>🌌</span>Astronomia</button>
+
+        <button class="topic" data-topic="Ciência"><span>🔬</span>Ciência</button>
+
+        <button class="topic" data-topic="Tecnologia"><span>🤖</span>Tecnologia</button>
+
+        <button class="topic" data-topic="Mistérios"><span>🪐</span>Mistérios</button>
+
+      </div>
+
+      <label for="subject">Qual assunto você quer explorar?</label>
+
+      <input id="subject" placeholder="Ex.: O que aconteceria se a Terra parasse?">
+
+      <label for="style">Estilo do vídeo</label>
+
+      <select id="style">
+
+        <option>Documentário cinematográfico</option>
+
+        <option>Curiosidade científica</option>
+
+        <option>Mistério com investigação</option>
+
+        <option>Tecnologia do futuro</option>
+
+      </select>
+
+      <label for="duration">Duração desejada</label>
+
+      <select id="duration">
+
+        <option value="60">60 segundos ou mais</option>
+
+        <option value="75">75 segundos</option>
+
+        <option value="90">90 segundos</option>
+
+      </select>
+
+      <button class="primary" id="prepare">Preparar minha pauta</button>
+
+    </section>
+
+    <section class="panel">
+
+      <h2>02 — Sua pauta</h2>
+
+      <div id="status" aria-live="polite">Seu próximo projeto aparecerá aqui.</div>
+
+    </section>
+
+  </main>
+
+  <footer>DOMÍNIO X STUDIO • Um projeto em construção</footer>
+
+  <script>
+
+    let selectedTopic = "";
+
+    document.querySelectorAll(".topic").forEach(button => {
+
+      button.addEventListener("click", () => {
+
+        document.querySelectorAll(".topic").forEach(item =>
+
+          item.classList.remove("selected")
+
+        );
+
+        button.classList.add("selected");
+
+        selectedTopic = button.dataset.topic;
+
+      });
+
+    });
+
+    document.getElementById("prepare").addEventListener("click", () => {
+
+      const subject = document.getElementById("subject").value.trim();
+
+      const style = document.getElementById("style").value;
+
+      const duration = document.getElementById("duration").value;
+
+      const status = document.getElementById("status");
+
+      if (!selectedTopic) {
+
+        status.textContent = "Escolha uma área: Astronomia, Ciência, Tecnologia ou Mistérios.";
+
+        return;
+
+      }
+
+      if (!subject) {
+
+        status.textContent = "Digite o assunto que deseja explorar para continuar.";
+
+        document.getElementById("subject").focus();
+
+        return;
+
+      }
+
+      status.textContent =
+
+        "PAUTA PREPARADA\n\n" +
+
+        "Área: " + selectedTopic + "\n" +
+
+        "Assunto: " + subject + "\n" +
+
+        "Estilo: " + style + "\n" +
+
+        "Duração mínima desejada: " + duration + " segundos\n\n" +
+
+        "Próxima etapa: pesquisar fontes confiáveis e desenvolver o roteiro.\n\n" +
+
+        "Observação: esta versão ainda não pesquisa na internet nem gera o vídeo automaticamente.";
+
+    });
+
+  </script>
+
+</body>
+
+</html>
