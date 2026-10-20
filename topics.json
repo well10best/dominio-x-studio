@@ -1,75 +1,19 @@
 {
-  "updated_at": "2026-10-19T19:49:02.723019+00:00",
+  "updated_at": "2026-10-20T11:55:04.155770+00:00",
   "topics": [
     {
-      "title": "NASA Improves Shock, Vibration Analysis",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
-      "description": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft. To do that, engineers in the Dynamic Environments Group with NASA’s "
-    },
-    {
-      "title": "Software",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
-      "description": "Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems. Copies of our software can be requested from NASA’s Software Catalog. JeNo Development of jet noise prediction cod"
-    },
-    {
-      "title": "Experimental Facilities",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/",
-      "description": "Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig (NATR), the DGEN AeroPropulsion Research Turbofan (DART), and the Acoustical"
-    },
-    {
-      "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+      "title": "MMX lifts off to Mars’s moon Phobos",
       "category": "Astronomia",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
-      "description": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston."
+      "source": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+      "description": "Image: MMX lifts off to Mars’s moon Phobos"
     },
     {
-      "title": "Instrumentation",
+      "title": "Celebrating BepiColombo, three words at a time",
       "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
-      "description": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory an"
-    },
-    {
-      "title": "Martian Dawn",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/martian-dawn/",
-      "description": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up […]"
-    },
-    {
-      "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
-      "description": "APODScienceAPODAPOD: 2026 October 19 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual X-ray Hot "
-    },
-    {
-      "title": "Autumn Paints Poland’s Bieszczady Mountains",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
-      "description": "Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan."
-    },
-    {
-      "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
-      "description": "APODScienceAPODAPOD: 2026 October 18 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula Pillars "
-    },
-    {
-      "title": "APOD: 2026 October 17 – 3D 67P",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
-      "description": "APODScienceAPODAPOD: 2026 October 17…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 3D 67P Explanation: Put on your r"
+      "source": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
+      "description": "Video: 00:03:32 BepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December, 2026. To celebrate, mission team members were asked to describe BepiColombo in just three words. Their answers capture the characte"
     },
     {
       "title": "Euclid discovers new comet",
@@ -84,6 +28,62 @@
       "source": "ESA",
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Where_winds_blow_and_lava_flows",
       "description": "Image: Where winds blow and lava flows"
+    },
+    {
+      "title": "Mars moon lander set to launch on 19 October",
+      "category": "Astronomia",
+      "source": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+      "description": "The Martian Moons eXploration ( MMX ) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. MMX is led by the Japan Aerospace Exploration Ag"
+    },
+    {
+      "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
+      "category": "Mistérios",
+      "source": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
+      "description": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced its origin back to the Sun’s surface and revealed more about solar magnetism – the unruly instigator of dangerou"
+    },
+    {
+      "title": "Mars’s oddest cloud may be even odder than we thought",
+      "category": "Astronomia",
+      "source": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
+      "description": "Scientists using the European Space Agency's Mars Express , in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud."
+    },
+    {
+      "title": "Webb captures commotion from nebula’s stellar jets",
+      "category": "Ciência",
+      "source": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
+      "description": "Image: Webb captures commotion from nebula’s stellar jets"
+    },
+    {
+      "title": "Science begins for Smile",
+      "category": "Ciência",
+      "source": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
+      "description": "On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the spacecraft launched on 19 May and reached its target orbit for science operations on 20 June."
+    },
+    {
+      "title": "Galaxies in a cosmic house of mirrors",
+      "category": "Ciência",
+      "source": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
+      "description": "Image: This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of th"
+    },
+    {
+      "title": "A galaxy spinning out of sync",
+      "category": "Astronomia",
+      "source": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+      "description": "Image: Though the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by grav"
+    },
+    {
+      "title": "BepiColombo’s Mercury arrival begins - full replay",
+      "category": "Ciência",
+      "source": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
+      "description": "Video: 02:31:10 Watch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury. After travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft"
     }
   ]
 }
