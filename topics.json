@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-10-28T12:04:43.453014+00:00",
+  "updated_at": "2026-10-29T12:05:24.598714+00:00",
   "topics": [
+    {
+      "title": "APOD: 29 October 2026 – The Horns of Venus",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+      "description": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Horns […]"
+    },
+    {
+      "title": "Arnab Strikes India",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+      "description": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh."
+    },
+    {
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+      "description": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech, which manages JPL for NASA, "
+    },
+    {
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "description": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in"
+    },
+    {
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+      "description": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed […]"
+    },
+    {
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
+      "description": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge. Although Gardner was used to leading fellow st"
+    },
+    {
+      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+      "description": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs, celestial objects that are"
+    },
+    {
+      "title": "Webb Sees Turbulent Star Nursery",
+      "category": "Astronomia",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
+      "description": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity […]"
+    },
     {
       "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
       "category": "Ciência",
@@ -13,63 +69,7 @@
       "category": "Ciência",
       "source": "NASA",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
-      "description": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view […]"
-    },
-    {
-      "title": "The Land of the Standing-Up Rocks",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
-      "description": "A national monument since the 1920s, Chiricahua is America’s newest national park."
-    },
-    {
-      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-      "category": "Astronomia",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-      "description": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods […]"
-    },
-    {
-      "title": "NASA’s Neo Surveyor Sunshade",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
-      "description": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and […]"
-    },
-    {
-      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
-      "description": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.” In honor of National Mentoring Day on Oct. 27, Bhardwaj reflects on how Cohen’s"
-    },
-    {
-      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
-      "description": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Noctilucent Clouds"
-    },
-    {
-      "title": "A-81 Reaches South Georgia",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
-      "description": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf."
-    },
-    {
-      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
-      "description": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]"
-    },
-    {
-      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-      "category": "Astronomia",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
-      "description": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings "
+      "description": "APODScienceAPODAPOD: 2026 October 28 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please e"
     },
     {
       "title": "Stars brewing in a nebulous cauldron",
