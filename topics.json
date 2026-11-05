@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-11-04T12:10:14.155149+00:00",
+  "updated_at": "2026-11-05T12:15:55.082368+00:00",
   "topics": [
+    {
+      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+      "description": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silho"
+    },
+    {
+      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+      "description": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats."
+    },
+    {
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+      "description": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies. The crewed X-70 features advanced, rapidly reconfigur"
+    },
+    {
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "category": "Astronomia",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "description": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon"
+    },
+    {
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "category": "Astronomia",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "description": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include "
+    },
+    {
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "category": "Astronomia",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+      "description": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing m"
+    },
+    {
+      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+      "category": "Astronomia",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+      "description": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa"
+    },
+    {
+      "title": "Hubble Reveals Cosmic Mystery",
+      "category": "Mistérios",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
+      "description": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read […]"
+    },
     {
       "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
       "category": "Astronomia",
@@ -14,76 +70,6 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
       "description": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest."
-    },
-    {
-      "title": "Astronaut and Earth",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
-      "description": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and performed some get-ahead work […]"
-    },
-    {
-      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-      "description": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with f"
-    },
-    {
-      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
-      "description": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by "
-    },
-    {
-      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
-      "category": "Astronomia",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
-      "description": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet PanSTARRs an"
-    },
-    {
-      "title": "The Pacific’s Busy Storm Season",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
-      "description": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska."
-    },
-    {
-      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
-      "category": "Astronomia",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
-      "description": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Center of Excellence for Human Spaceflight, and its "
-    },
-    {
-      "title": "TB 26-09 Measured Hammer-Tap Inputs",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
-      "description": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known inputs. Force shape changes excitat"
-    },
-    {
-      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
-      "description": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year […]"
-    },
-    {
-      "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
-      "category": "Ciência",
-      "source": "ESA",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
-      "description": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknamed the Cat’s Head Nebula, which reflects the 'magi"
-    },
-    {
-      "title": "Stars brewing in a nebulous cauldron",
-      "category": "Astronomia",
-      "source": "ESA",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
-      "description": "Image: Stars brewing in a nebulous cauldron"
     }
   ]
 }
