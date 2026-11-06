@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-05T12:15:55.082368+00:00",
+  "updated_at": "2026-11-06T12:10:45.211137+00:00",
   "topics": [
+    {
+      "title": "APOD: 2026 November 6 – A Farewell to Swift",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+      "description": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Farewell […]"
+    },
+    {
+      "title": "Taking a Gander at Utah’s Goosenecks",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+      "description": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape."
+    },
+    {
+      "title": "Midwestern City Lights",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+      "description": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this ["
+    },
+    {
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
+      "description": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Freedom Cross"
+    },
+    {
+      "title": "Hubble Learns Galactic History From Stars",
+      "category": "Astronomia",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+      "description": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099."
+    },
     {
       "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
       "category": "Ciência",
@@ -35,41 +70,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
       "description": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include "
-    },
-    {
-      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "category": "Astronomia",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
-      "description": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing m"
-    },
-    {
-      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-      "category": "Astronomia",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
-      "description": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa"
-    },
-    {
-      "title": "Hubble Reveals Cosmic Mystery",
-      "category": "Mistérios",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
-      "description": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read […]"
-    },
-    {
-      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
-      "category": "Astronomia",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
-      "description": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hid"
-    },
-    {
-      "title": "Before the Dawn in America’s Heartland",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
-      "description": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest."
     }
   ]
 }
