@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-11-07T11:58:56.895580+00:00",
+  "updated_at": "2026-11-08T11:59:09.627914+00:00",
   "topics": [
+    {
+      "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+      "description": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Met"
+    },
+    {
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "category": "Astronomia",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "description": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American"
+    },
+    {
+      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+      "description": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation […]"
+    },
     {
       "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
       "category": "Ciência",
@@ -49,27 +70,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
       "description": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Freedom Cross"
-    },
-    {
-      "title": "Hubble Learns Galactic History From Stars",
-      "category": "Astronomia",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
-      "description": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099."
-    },
-    {
-      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-      "description": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silho"
-    },
-    {
-      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
-      "description": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats."
     }
   ]
 }
