@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-11-11T12:15:32.100252+00:00",
+  "updated_at": "2026-11-12T12:17:18.261817+00:00",
   "topics": [
+    {
+      "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+      "category": "Astronomia",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+      "description": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and ["
+    },
+    {
+      "title": "Scotland’s Flow Country",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
+      "description": "Blanket bogs in the Scottish Highlands store vast amounts of carbon."
+    },
+    {
+      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
+      "description": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal"
+    },
     {
       "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
       "category": "Astronomia",
@@ -49,27 +70,6 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
       "description": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Saturn Behind the"
-    },
-    {
-      "title": "Autumn Mornings Bring Valley Fog",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
-      "description": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon."
-    },
-    {
-      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
-      "description": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle […]"
-    },
-    {
-      "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
-      "description": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed crystals, and […]"
     }
   ]
 }
