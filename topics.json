@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-15T12:02:10.790949+00:00",
+  "updated_at": "2026-11-16T12:37:40.264788+00:00",
   "topics": [
+    {
+      "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+      "category": "Astronomia",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+      "description": "APOD Science APOD APOD: 2026 November 16 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 7129: […]"
+    },
+    {
+      "title": "The Last Ice on Puncak Jaya",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+      "description": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers."
+    },
     {
       "title": "Outbursts from a Massive Star",
       "category": "Astronomia",
@@ -56,20 +70,6 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
       "description": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope."
-    },
-    {
-      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-      "category": "Astronomia",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
-      "description": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time. Endeavour’s new hom"
-    },
-    {
-      "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
-      "category": "Astronomia",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
-      "description": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and ["
     }
   ]
 }
