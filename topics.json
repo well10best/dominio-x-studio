@@ -1,75 +1,75 @@
 {
-  "updated_at": "2026-11-19T12:20:32.118458+00:00",
+  "updated_at": "2026-11-20T19:10:15.187049+00:00",
   "topics": [
+    {
+      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+      "category": "Astronomia",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
+      "description": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18. Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager responsible for management and oversi"
+    },
+    {
+      "title": "NASA’s Curiosity Mars Rover Collects Samples",
+      "category": "Astronomia",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
+      "description": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more […]"
+    },
+    {
+      "title": "APOD: 2026 November 20 – V-G-R",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
+      "description": "APODScienceAPODAPOD: 2026 November…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, "
+    },
+    {
+      "title": "The Stormy Southwest Pacific",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+      "description": "Tropical Cyclone Xavier launched the basin’s storm season with a bang."
+    },
+    {
+      "title": "Challenge: Public Input on Life and the World in 2075",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+      "description": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Awa"
+    },
+    {
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+      "description": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before."
+    },
+    {
+      "title": "Lake Pelku",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/lake-pelku/",
+      "description": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record ph"
+    },
+    {
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "description": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot […]"
+    },
+    {
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+      "description": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:16 a.m. EST) Nov. 18. Voyager "
+    },
     {
       "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
       "category": "Ciência",
       "source": "NASA",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
-      "description": "APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnot"
-    },
-    {
-      "title": "El Niño Rains Paint the Atacama",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
-      "description": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era."
-    },
-    {
-      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
-      "description": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Nort"
-    },
-    {
-      "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/",
-      "description": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”. Everyone has stress about something – some people […]"
-    },
-    {
-      "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
-      "description": "NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Use"
-    },
-    {
-      "title": "Empire State Building Goes Gold for Voyager",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
-      "description": "The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains […]"
-    },
-    {
-      "title": "What Is the Moon Base?",
-      "category": "Astronomia",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/",
-      "description": "This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost. It will be a place where astronauts live, work, and explore. ______________________________________________________________________ Words to Know outpost: a station o"
-    },
-    {
-      "title": "Thank You for Doing NASA Science!",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/",
-      "description": "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an expert participant or someone who’s just started your s"
-    },
-    {
-      "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
-      "description": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from"
-    },
-    {
-      "title": "APOD: 2026 November 18 – A Medium-Sized Solar Flare",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
-      "description": "APOD Science APOD APOD: 2026 November 18 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized "
+      "description": "APODScienceAPODAPOD: 2026 November 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The Hors"
     }
   ]
 }
