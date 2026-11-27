@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-11-26T20:19:20.955532+00:00",
+  "updated_at": "2026-11-27T20:04:46.690546+00:00",
   "topics": [
+    {
+      "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+      "description": "NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage to send the Orion […]"
+    },
+    {
+      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "category": "Astronomia",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+      "description": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration"
+    },
+    {
+      "title": "APOD: 2026 November 27 – The Moon Watchers",
+      "category": "Astronomia",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
+      "description": "APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Moon Watchers"
+    },
+    {
+      "title": "Shivelyuch Socked In",
+      "category": "Ciência",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/",
+      "description": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view."
+    },
     {
       "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
       "category": "Ciência",
@@ -42,34 +70,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
       "description": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks […]"
-    },
-    {
-      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
-      "category": "Astronomia",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
-      "description": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy."
-    },
-    {
-      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
-      "description": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]"
-    },
-    {
-      "title": "Georgia’s Pecan Belt",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/",
-      "description": "Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production."
-    },
-    {
-      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
-      "category": "Ciência",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
-      "description": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story of space exploration with the broadest possible ["
     }
   ]
 }
